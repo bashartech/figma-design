@@ -12,7 +12,7 @@ export default function Hero() {
       </Head>
       <div className="min-h-[825px] w-screen">
         <div className="w-full flex flex-col lg:flex-row p-4 sm:p-10">
-          <div className="left pl-12 w-full lg:w-1/2 flex gap-10 flex-col justify-center mb-8 lg:mb-0 lg:m-16">
+          <div className="left pl-5 w-full lg:w-1/2 flex gap-10 flex-col justify-center mb-8 lg:mb-0 lg:m-16">
             <h1 className="font-libre text-3xl sm:text-4xl lg:text-[40px] font-bold max-w-[496px]">
               IMPECCABLE CRAFTSMANSHIP AND FINESSE
             </h1>
